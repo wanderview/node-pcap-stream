@@ -1,6 +1,6 @@
 # pcap-stream
 
-Streams2 wrapper for [pcap-parser][],
+Streams2 wrapper for [pcap-parser][].
 
 [![Build Status](https://travis-ci.org/wanderview/node-pcap-stream.png)](https://travis-ci.org/wanderview/node-pcap-stream)
 
